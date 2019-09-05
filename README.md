@@ -11,12 +11,5 @@ Mrs .... etc.
 Now let us learn github !
 
 Songui is here !
-<<<<<<< HEAD
 
-
-I think that this the best way to work.
-Danke Sir !
-
-Dear Sir, this is my last modification.
-
-kshhhhhhhhhh
+KSH
