@@ -19,7 +19,4 @@ Danke Sir !
 
 Dear Sir, this is my last modification.
 
-KSH
-=======
-KSH est là !
->>>>>>> a37e7e677749221981b02187b0f15d73d27c7704
+kshhhhhhhhhh
