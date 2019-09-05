@@ -5,3 +5,5 @@ setAccountInfo(name   = Sys.getenv("shinyapps_name"),
                secret = Sys.getenv("shinyapps_secret"))
 
 deployApp()
+ 
+#New change to commit
