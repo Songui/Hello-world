@@ -10,10 +10,5 @@ Mrs .... etc.
 
 Now let us learn github !
 
-<<<<<<< HEAD
-Last modification : 
-am I ready now for using github ?
+Songui is here !
 
-=======
-Cool
->>>>>>> 4df51285a3d6f86b64a9a2fd1344e6bd4e40270b
